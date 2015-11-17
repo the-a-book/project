@@ -1,5 +1,5 @@
-# project
-Manifest for the A book
+# Manifest for the A book
+
 
 [English version]
 [French version]
