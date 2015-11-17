@@ -1,8 +1,8 @@
 # Manifest for the A book
 
 
-[English version](project/manifest-en.md)
+[English version](/manifest-en.md)
 
-[French version](project/manifest-fr.md)
+[French version](/manifest-fr.md)
 
 Table of contents
