@@ -1,0 +1,8 @@
+Cité du design editions are publishing a book about the most significant industrial design project in mass-market in the last thirty years : Apple. 
+Because your book really stroke us in their precision and tone, it seems to constitute a very strong piece for describing how Apple designs its interfaces specifically on its internal and sensible aspects, interrelated. 
+We are very interested in your undertsanding of those issues, and we are looking to collect beacon’s views on a specific aspect of this massive design project. Because we are working on specific details that make the firm’s signature, it appears obvious to us to gather such precise and precious information, in order to explain, how these technological artefacts and software are produced and designed.
+
+Because it seems extremely relevant for us to incorporate your work and your outlook regarding your peculiar approach and ours on this editorial project. Thus, your text has been carefully thought out by our author for its appropriateness and we ask you if you will be interessted in our project.
+
+Published in two versions, English and French, plus developed digital book, the book will reveal the international expertise of the Cité du design supported by invited experts, in technical culture and design culture. A comprehensive and panoptic analysis set against a methodology of details observation, will constitute two forms of speech, to enlighten the reader on the strong and unique design approach of Apple.
+It will be supported by a unique iconography highlighting microscopic details that make all the difference on a macroscopic scale on the design of these technical objects. The accent will also be placed on a comprehensive analysis of the different element of the software.
