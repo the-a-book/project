@@ -5,4 +5,4 @@
 
 [French version](/manifest-fr.md)
 
-Table of contents
+[Table of contents](/toc.md)
