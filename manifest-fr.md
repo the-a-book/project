@@ -8,7 +8,6 @@ Le livre proposera donc essentiellement des démontages des machines, des zooms 
 En plus des parties classiques de chapitres sous forme d’essais – confiés à divers auteurs spécialisés, on trouvera au centre du livre une collection d’images de type «packshot» ou «capture d’écran» recouverte d’un calque de décryptage, pointant les aspects remarquables et les détails significatifs de chaque visuel.
 
 # Manifeste
-SYNOPSIS
 Apple n’est pas une société très douée pour le design : à presque 40 ans d’existence, elle
 affronte pour la première fois la question du style, par le biais du « bracelet » et de « l’attache »
 de sa nouvelle montre numérique. D’ordinaire, Apple fabrique des produits électroniques
