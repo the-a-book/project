@@ -23,7 +23,7 @@ les doutes du design et la certitude de la technique dans une conscience commune
 pas une « culture », mais bien une « praxis » – au point que l’on ne puisse plus distinguer, du
 designer ou de l’ingénieur, qui est la tête et qui a les jambes. Cette manière a imprimé dans
 chacune des machines des traces qu’on avait l’habitude d’effacer ou que l’on ne savait pas
-marteler : névroses et obsessions, absolu et cynisme, contingence et métaphores, etc. Ce
+marteler : névroses et obsessions, absolu et cynisme, contingences et métaphores, etc. Ce
 livre sera l’occasion de les exprimer.
 
 D’ordinaire, donc, Apple fabrique des produits électroniques et édite les logiciels qui les
