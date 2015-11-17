@@ -55,7 +55,7 @@ conceptuelle de Swift, le nouveau langage de programmation d’Apple et détaill
 
 * __Article__ de __Amit Singh__
   *  sur la ‘beauté de la bête’, le couple Unix/OSX [software]
-    * Cet expert des arcanes du système OSX, auteur du pavé OSX internal, souligne le
+    * Cet expert des arcanes du système OSX, auteur du pavé [OSX internal](http://osxbook.com), souligne le
 rapport invislbe et implicite entre la technique profonde et le design de surface du système
 d’exploitation d’Apple
 
