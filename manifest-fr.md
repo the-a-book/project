@@ -34,7 +34,7 @@ n’est fait pour soulager les consciences qui vont avec : à chaque nouvel appa
 sent bien que sa vie gagne et perd à la fois quelque chose d’unique sans jamais mettre le
 doigt dessus, sinon en laissant des traces grasses sur l’écran du dernier iPad. Paradoxe :
 Apple a tellement vendu son âme à la forme qu’elle est parvenue à loger le diable dans les
-détails des usages en devenant le prescripteur de nombre d’« aspects » de nos vies : vente
+détails des usages en devenant le prescripteur de nombre d’« aspects » de nos vies – vente
 à la découpe de la culture, mise sous tutelle de nos données, uniformisation des goûts,
 dictature de l’écosystème, etc. En se retrouvant entre toutes les mains, Apple s’est placée au
 centre de tous les espoirs libertaires ou autres fantasmes d’oppression. Le design, lorsqu’on
