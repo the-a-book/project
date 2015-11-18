@@ -6,4 +6,6 @@ Read the *A Book* synopsis and browse the list of the topics the book will talk 
 
 [French version](/manifest-fr.md)
 
-[Table of contents](/toc.md)
+[Table of contents](/toc_en.md)
+
+[Table des matières](/toc_fr.md)
