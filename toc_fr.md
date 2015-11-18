@@ -43,7 +43,7 @@ Question posée à un célèbre désassembleur de machine.
     *  Une histoire d’Apple racontée par les formes et les matériaux par un des plus grands
 spécialistes d’Apple en France.
 
-* __Article__ de __Johannes Bergerhausen__spécialiste de l’histoire des signes
+* __Article__ de __Johannes Bergerhausen__ spécialiste de l’histoire des signes
   *  sur la contribution d’Apple dans le domaine de la typographie numérique [software]
 L’auteur de [DecodeUnicode](http://decodeunicode.meso.net) détaille la passion d’Apple pour la typographie, son intégration au système, son importance dans le marketing et son influence culturelle.
 
