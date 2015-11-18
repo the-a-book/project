@@ -40,10 +40,10 @@
   * subject: The Beauty and the Beast, the couple Unix/OSX [software]
      * Expert in OS X mysteries, author of the massive [OS X internal](http://osxbook.com/), he will underline the implicit relation between deep technique and surface design in the OS X system.
 
-Reprint articles by John Gruber
-subject: OS X metal interface [software]
-Reprint of caustic articles offering a serial interpretation of the “metal brushed” variations for the design interface in OS X, by John Gruber, best known expert on all the comings and goings of the Apple firm.
+* __Reprint__ articles by __John Gruber__
+  * subject: OS X metal interface [software]
+    * Reprint of caustic articles offering a serial interpretation of the “metal brushed” variations for the design interface in OS X, by John Gruber, best known expert on all the comings and goings of the Apple firm.
 
-Reprint article by Ken Shirriff
-subject: On Apple AC adpater design [hardware]
-An highly qualified electronics engineer dissects the innovative and ingenious design of an AC adapter. 
+* __Reprint__ article by __Ken Shirriff__
+  * subject: On Apple AC adpater design [hardware]
+    * An highly qualified electronics engineer dissects the innovative and ingenious design of an AC adapter. 
