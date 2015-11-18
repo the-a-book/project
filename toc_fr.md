@@ -12,7 +12,7 @@ d’interface. Il reviendra sur ces innovations.
 sa carrière comme ingénieur avant de muer en créateur d’installations numériques. C’est un
 exemple vivant des relations entre la technique et la création, fondamentales chez Apple.
 
-* Entretien avec __Laurent Sansonetti__, ancien développeur chez Apple
+* __Entretien__ avec __Laurent Sansonetti__, ancien développeur chez Apple
   * sur le thème de l’ingénieur vs.le hacker [software]
     * Laurent Sansonetti est un des principaux développeurs de la suite bureautique d’Apple,
 mais aussi l’auteur d’un framework (MacRuby) qui « étend » les possibilités de programmation
